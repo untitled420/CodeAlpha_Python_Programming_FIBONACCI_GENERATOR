@@ -1,6 +1,6 @@
 #Fibonacci Generator
 
-iter = int(input("Enter Number of iteration: "))
+iter = int(input("Enter Number of iterations: "))
 Num1 = 0
 Num2 = 1
 OutPut = Num2
